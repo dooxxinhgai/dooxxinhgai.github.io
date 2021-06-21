@@ -168,12 +168,12 @@ button {
     cursor: pointer;
     border: 0;
     border-radius: 15px;
-    background-color: #81c91d;
+    background-color: #08aeea;
     font-size: 16px;
     font-weight: 500;
     font-family: "Poppins", sans-serif;
     margin-bottom: 20px;
-    box-shadow: 0 10px 20px -5px rgba(129, 201, 29, 0.9);
+    box-shadow: 0 10px 20px -5px rgba(29, 152, 201, 0.9);
     outline: none;
 }
 
